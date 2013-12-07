@@ -1,7 +1,3 @@
-circuit
-=======
-
-A digital logic circuit simulator for TI calculators
 Digital Logic Circuit Simulator
 by Clarence Risher
 sparr0@gmail.com
