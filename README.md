@@ -88,6 +88,9 @@ When you start the program it will try to load 'circsav0', ignore the error mess
 Any time you load a file the program will attempt to save the current circuit to 'circsav0', if this fails you will be prompted, press y to continue loading.
 
 Source is included with this program.  It requires extgraph 2.00 beta 3, and compiles with tigcc 0.95 beta 17.  newer versions probably work, but i havent tried them.
+
+extgraph can be found here: https://github.com/debrouxl/ExtGraph
+
 I would much rather you submit/suggest improvements to me so that i can put them in the distributed version, but if you feel the need to produce your own version then feel free, just make sure to give me credit for the original somewhere in your version.
 
 Change Log:
